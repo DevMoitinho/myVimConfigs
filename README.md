@@ -4,8 +4,10 @@ If you want to use them you can just put these files in a /nvim directory and th
 
 ## Configs
 ### Theme
-<img width="1364" height="722" alt="image" src="https://github.com/user-attachments/assets/a2302424-a78a-4927-8686-3657867b3f95" />
 Catppucchin
+<img width="1364" height="722" alt="image" src="https://github.com/user-attachments/assets/a2302424-a78a-4927-8686-3657867b3f95" />
+
+
 ### Pluggins:
 
 | Pluggins | Link |
