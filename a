@@ -14,7 +14,7 @@ vim.opt.relativenumber = true
 
 -- terminal configs
 vim.keymap.set("n", "<C-t>", function()
-    vim.cmd.tabnew()
+    vim.cmd.vnew()
     vim.cmd.term()
 end)
 --

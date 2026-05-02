@@ -51,7 +51,10 @@ return {
             require("mason-lspconfig").setup({
             ensure_installed = { "lua_ls", "pyright", "clangd"},
         })
-        end
+        end,
+        opts = {automatic_enable = {exclude = "jdtls"}}
     },
+
+    
 
 }
